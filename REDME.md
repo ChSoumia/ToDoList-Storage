@@ -6,4 +6,4 @@ un ToDo List con JavaScript y usando LocalStorage
 
 ## 🚀 DEMO
 
-[Deploy]()
+[Deploy](https://todolistconstorage.netlify.app/)
