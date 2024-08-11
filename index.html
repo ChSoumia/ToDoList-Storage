@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="./script.js" defer></script>
+    <title>To Do List</title>
+  </head>
+  <body>
+    <div class="section-todo-list">
+      <h4>Local Storage</h4>
+      <h2>To Do List</h2>
+      <div class="input-btn">
+        <input type="text" id="inputTask" />
+        <input type="date" id="dueDate" />
+        <button onclick="addTasks()">Add Task</button>
+      </div>
+      <div class="list-tasks">
+        <ul id="listTasks">
+          <li>name of task more content <span>X</span></li>
+        </ul>
+      </div>
+      <button class="remove-all" onclick="deleteAll()">Remove all</button>
+    </div>
+  </body>
+</html>
