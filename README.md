@@ -2,7 +2,7 @@
 
 un ToDo List con JavaScript y usando LocalStorage
 
-![image](./Todolist.png)
+[<img src="./Todolist.png" width="400"/>](./Todolist.png)
 
 ## 🚀 DEMO
 
